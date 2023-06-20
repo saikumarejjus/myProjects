@@ -1,0 +1,96 @@
+"21:01:34 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""21:01:34 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""21:01:34 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""21:01:34 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""21:01:34 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""21:01:34 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""21:01:34 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""21:01:34 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""21:01:49 [main] INFO  stockmanage.Mainclass - Enter the id of the product, which should have only numbers 
+""21:02:00 [main] INFO  stockmanage.Mainclass -  product has been deleted succesfully ....
+""21:02:00 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:02:00 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""21:02:03 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""21:02:03 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""21:02:03 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""21:02:03 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""21:02:06 [main] INFO  stockmanage.Mainclass - customer_username 	customer_phno 	product_name 	ordered_date 	prodect_count 
+""21:02:06 [main] INFO  stockmanage.Mainclass - parvi	0				2022-09-26		10
+""21:02:06 [main] INFO  stockmanage.Mainclass - parvi	0				2022-09-26		10
+""21:02:06 [main] INFO  stockmanage.Mainclass - parvi	0		gear		2022-09-26		10
+""21:02:06 [main] INFO  stockmanage.Mainclass - parvi	7895629645		gear		2022-09-26		10
+""21:02:06 [main] INFO  stockmanage.Mainclass - parvi	7895629645				2022-09-26		2
+""21:02:06 [main] INFO  stockmanage.Mainclass - mahi	9485367854		gear		2022-10-03		5
+""21:02:06 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:02:06 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""21:02:18 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""21:02:18 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""21:02:18 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""21:02:18 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""21:02:19 [main] INFO  stockmanage.Mainclass - Enter the id of the product, which should have only numbers 
+""21:02:27 [main] INFO  stockmanage.Mainclass - Enter the name of the seller, which should have only letters 
+""21:02:44 [main] INFO  stockmanage.Mainclass - Enter the count of the product, which should have only numbers 
+""21:02:47 [main] INFO  stockmanage.Mainclass - If you want to order more products then enter <1> , else enter <0> : 
+""21:02:53 [main] INFO  stockmanage.Mainclass - Enter the id of the product, which should have only numbers 
+""21:02:58 [main] INFO  stockmanage.Mainclass - oops product id already  does not exists in store
+""21:02:58 [main] INFO  stockmanage.Mainclass - Enter the id of the product, which should have only numbers 
+""21:04:05 [main] INFO  stockmanage.Mainclass - Enter the name of the seller, which should have only letters 
+""21:04:13 [main] INFO  stockmanage.Mainclass - Enter the count of the product, which should have only numbers 
+""21:04:24 [main] INFO  stockmanage.Mainclass - If you want to order more products then enter <1> , else enter <0> : 
+""21:04:27 [main] INFO  stockmanage.Mainclass - your order is placed succesfully !!!!! 
+""21:04:27 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:04:27 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""21:04:33 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""21:04:33 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""21:04:33 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""21:04:33 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""21:05:12 [main] INFO  stockmanage.Mainclass - ad_username 		 ad_password 		 ad_name 		 ad_phno
+""21:05:12 [main] INFO  stockmanage.Mainclass - admin		Admin@abc123		EJJIPURAPU SAIKUMAR		9701613986
+""21:05:12 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:05:12 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""21:05:14 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""21:05:14 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""21:05:14 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""21:05:14 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""21:05:22 [main] INFO  stockmanage.Mainclass - ad_username 		 ad_password 		 ad_name 		 ad_phno
+""21:05:22 [main] INFO  stockmanage.Mainclass - admin		Admin@abc123		EJJIPURAPU SAIKUMAR		9701613986
+""21:05:22 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:05:22 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""21:05:24 [main] INFO  stockmanage.Mainclass - you have been logged out !!!!
+""21:05:24 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""21:05:29 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""21:05:29 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""21:05:29 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customer 
+""21:05:29 [main] INFO  stockmanage.Mainclass -  enter your response here :  
+""21:05:32 [main] INFO  stockmanage.Mainclass - Enter  full name, which should have  letters letters 
+""21:05:49 [main] INFO  stockmanage.Mainclass - Enter  username(size=min4), which should have number, letters letters 
+""21:05:58 [main] INFO  stockmanage.Mainclass - Enter  password, which should have number, letters, special characters letters 
+""21:06:10 [main] INFO  stockmanage.Mainclass - Enter  phone number, which should have only numbers 
+""21:06:27 [main] INFO  stockmanage.Mainclass - your have succusfully created account 
+""21:06:27 [main] INFO  stockmanage.Mainclass -  enter your details to login 
+""21:06:27 [main] INFO  stockmanage.Mainclass - Enter  username(size=min4), which should have number, letters letters 
+"

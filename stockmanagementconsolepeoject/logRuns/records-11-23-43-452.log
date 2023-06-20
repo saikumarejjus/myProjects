@@ -1,0 +1,107 @@
+"11:17:39 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""11:17:41 [main] INFO  stockmanage.Mainclass - product_id 	 product_name 	 product_price 	 product_avalible 	 producta_created_date
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1001		gear			5400	 	58	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1003		differential			18000	 	176	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1004		steering			3200	 	90	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1005		enginecase			7400	 	24	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1006		leafsprings			9000	 	74	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1007		tyres			8200	 	57	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1008		piston			6420	 	74	 	2022-08-18
+""11:17:41 [main] INFO  stockmanage.Mainclass - 1056		crankcase			6500	 	96	 	2022-09-23
+""11:17:41 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:17:49 [main] INFO  stockmanage.Mainclass - you have been logged out !!!!
+""11:18:05 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""11:18:06 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""11:18:08 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""11:18:11 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""11:18:11 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""11:18:11 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""11:18:11 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""11:18:14 [main] INFO  stockmanage.Mainclass - ad_username 		 ad_password 		 ad_name 		 ad_phno
+""11:18:14 [main] INFO  stockmanage.Mainclass - admin
+""11:18:14 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:18:54 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""11:18:55 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""11:18:59 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""11:19:02 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""11:19:02 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""11:19:02 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""11:19:02 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""11:19:05 [main] INFO  stockmanage.Mainclass - ad_username 		 ad_password 		 ad_name 		 ad_phno
+""11:19:05 [main] INFO  stockmanage.Mainclass - admin
+""11:19:05 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:20:32 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""11:20:35 [main] INFO  stockmanage.Mainclass -  enter the  coustomers username : 
+""11:21:31 [main] INFO  stockmanage.Mainclass -  enter the  of customer password : 
+""11:21:36 [main] INFO  stockmanage.Mainclass - customer username and password is verified
+""11:21:36 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""11:21:36 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""11:21:36 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""11:21:36 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""11:21:36 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""11:21:36 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""11:21:36 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:21:44 [main] INFO  stockmanage.Mainclass -  product_id 		product_name 		product_price 	product_avalible 		 producta_created_date
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1001
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1003
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1004
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1005
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1006
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1007
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1008
+""11:21:44 [main] INFO  stockmanage.Mainclass - 1056
+""11:21:44 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:22:32 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""11:22:35 [main] INFO  stockmanage.Mainclass -  enter the  coustomers username : 
+""11:22:38 [main] INFO  stockmanage.Mainclass -  enter the  of customer password : 
+""11:22:42 [main] INFO  stockmanage.Mainclass - customer username and password is verified
+""11:22:42 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""11:22:42 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""11:22:42 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""11:22:42 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""11:22:42 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""11:22:42 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""11:22:42 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:22:46 [main] INFO  stockmanage.Mainclass -  product_id 		product_name 		product_price 	product_avalible 		 producta_created_date
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1001		gear			5400	 	58	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1003		differential			18000	 	176	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1004		steering			3200	 	90	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1005		enginecase			7400	 	24	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1006		leafsprings			9000	 	74	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1007		tyres			8200	 	57	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1008		piston			6420	 	74	 	2022-08-18
+""11:22:46 [main] INFO  stockmanage.Mainclass - 1056		crankcase			6500	 	96	 	2022-09-23
+""11:22:46 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:23:33 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""11:23:35 [main] INFO  stockmanage.Mainclass -  enter the  coustomers username : 
+""11:23:38 [main] INFO  stockmanage.Mainclass -  enter the  of customer password : 
+""11:23:41 [main] INFO  stockmanage.Mainclass - customer username and password is verified
+""11:23:41 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""11:23:41 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""11:23:41 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""11:23:41 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""11:23:41 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""11:23:41 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""11:23:41 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:23:43 [main] INFO  stockmanage.Mainclass -  product_id 	product_name 		product_price 	product_avalible 	 producta_created_date
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1001			gear			5400	 	58	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1003			differential			18000	 	176	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1004			steering			3200	 	90	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1005			enginecase			7400	 	24	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1006			leafsprings			9000	 	74	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1007			tyres			8200	 	57	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1008			piston			6420	 	74	 	2022-08-18
+""11:23:43 [main] INFO  stockmanage.Mainclass - 1056			crankcase			6500	 	96	 	2022-09-23
+"

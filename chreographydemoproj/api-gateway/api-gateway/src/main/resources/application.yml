@@ -1,0 +1,20 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: DELIVERY-SERVICE
+          uri: lb://DELIVERY-SERVICE
+          predicates:
+            - Path=/delivery/**
+        - id: FOOD-ITEMS-SERVER
+          uri: lb://FOOD-ITEMS-SERVER
+          predicates:
+            - Path=/products/**
+        - id: ORDER-SERVICE
+          uri: lb://ORDER-SERVICE
+          predicates:
+            - Path=/order/**
+        - id: PAYMENT-SERVICE
+          uri: lb://PAYMENT-SERVICE
+          predicates:
+            - Path=/balance/**

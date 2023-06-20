@@ -1,0 +1,97 @@
+"10:32:30 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:32:30 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:32:30 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:32:30 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:32:30 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:32:35 [main] INFO  stockmanage.Mainclass - customer_id  		 customer_name 		 customer_phno 		 product_id  		 product_name  		 ordered_date  		 prodect_count 		 product_price 		 total_cost
+""10:32:35 [main] INFO  stockmanage.Mainclass - 1			saikumar 		   6300521861   	 	 10107		   		 2022-08-25    		 3 		 0 		 0
+""10:32:35 [main] INFO  stockmanage.Mainclass - 2			ganesh 		   8309044235   	 	 10101		   		 2022-08-25    		 2 		 0 		 0
+""10:32:35 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:34:30 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""10:34:34 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:34:36 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:34:39 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:34:39 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:34:39 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:34:39 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:34:42 [main] INFO  stockmanage.Mainclass - customer_id  		 customer_name 		 customer_phno 		 product_id  		 product_name  		 ordered_date  		 prodect_count 		 product_price 		 total_cost
+""10:34:42 [main] INFO  stockmanage.Mainclass - 1			saikumar 		   6300521861   	 	 10107		   			 2022-08-25  	  		 3 			 0 			 0
+""10:34:43 [main] INFO  stockmanage.Mainclass - 2			ganesh 		   8309044235   	 	 10101		   			 2022-08-25  	  		 2 			 0 			 0
+""10:34:43 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:38:34 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""10:38:36 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:38:38 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:38:41 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:38:41 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:38:41 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:38:41 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:38:44 [main] INFO  stockmanage.Mainclass - customer_id  		 customer_name 		 customer_phno 		 product_id    		 ordered_date  		 prodect_count  
+""10:38:44 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:38:59 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""10:39:01 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:39:02 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:39:05 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:39:05 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:39:05 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:39:05 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:39:07 [main] INFO  stockmanage.Mainclass - customer_id  		 customer_name 		 customer_phno 		 product_id    		 ordered_date  		 prodect_count  
+""10:39:07 [main] INFO  stockmanage.Mainclass - 1			saikumar 		   6300521861   	 	 10107		2022-08-25 			 3
+""10:39:07 [main] INFO  stockmanage.Mainclass - 2			ganesh 		   8309044235   	 	 10101		2022-08-25 			 2
+""10:39:07 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:39:14 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:39:14 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:39:23 [main] INFO  stockmanage.Mainclass - enter id of product : 
+""10:39:28 [main] INFO  stockmanage.Mainclass - enter product seller name : 
+""10:39:43 [main] INFO  stockmanage.Mainclass - enter number of products : 
+""10:40:27 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""10:40:29 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:40:31 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:40:34 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:40:34 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:40:34 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:40:34 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:40:36 [main] INFO  stockmanage.Mainclass - enter id of product : 
+""10:40:40 [main] INFO  stockmanage.Mainclass - enter product seller name : 
+""10:40:57 [main] INFO  stockmanage.Mainclass - enter number of products : 
+""10:45:26 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""10:45:33 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:45:36 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:45:40 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:45:40 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:45:40 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:45:40 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:45:40 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:45:40 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:45:40 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:45:40 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+"

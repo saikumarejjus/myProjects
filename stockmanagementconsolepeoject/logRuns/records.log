@@ -1,0 +1,74 @@
+"11:04:48 [main] INFO  stockmanage.Mainclass - 1003	 		differential			18000
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1004	 		steering			3200
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1005	 		enginecase			7400
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1006	 		leafsprings			9000
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1007	 		tyres			8200
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1008	 		piston			6420
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1023	 		axle			2343
+""11:04:48 [main] INFO  stockmanage.Mainclass - 1056	 		crankcase			6500
+""11:04:48 [main] INFO  stockmanage.Mainclass - 8787	 		bolts			300
+""11:04:48 [main] INFO  stockmanage.Mainclass - 9889	 		piston rings			2300
+""11:04:48 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:04:58 [main] INFO  stockmanage.Mainclass - ENTER [1]: if you want to change the password    
+""11:04:58 [main] INFO  stockmanage.Mainclass - ENTER [2]: if you want to see the products and their details in the store   
+""11:04:58 [main] INFO  stockmanage.Mainclass - ENTER [3]: if you want to buy products in  the store enter  
+""11:04:58 [main] INFO  stockmanage.Mainclass - ENTER [4]: if you want to see the products that you have ordered 
+""11:04:58 [main] INFO  stockmanage.Mainclass - ENTER [5]: if you want to see the profile   
+""11:04:58 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""11:04:58 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:05:01 [main] INFO  stockmanage.Mainclass - Enter the id of the product, which should have only numbers 
+""11:05:05 [main] INFO  stockmanage.Mainclass - Enter the qantity of the product, which should have only numbers 
+""11:05:06 [main] INFO  stockmanage.Mainclass - If you want to oreder more products then enter <1> , else enter <0> : 
+""11:05:16 [main] INFO  stockmanage.Mainclass - Enter the id of the product, which should have only numbers 
+""11:05:27 [main] INFO  stockmanage.Mainclass - Enter the qantity of the product, which should have only numbers 
+""11:05:30 [main] INFO  stockmanage.Mainclass - If you want to oreder more products then enter <1> , else enter <0> : 
+""11:05:37 [main] INFO  stockmanage.Mainclass - your order is placed succesfully !!!!! 
+""11:05:37 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:05:42 [main] INFO  stockmanage.Mainclass - ENTER [1]: if you want to change the password    
+""11:05:42 [main] INFO  stockmanage.Mainclass - ENTER [2]: if you want to see the products and their details in the store   
+""11:05:42 [main] INFO  stockmanage.Mainclass - ENTER [3]: if you want to buy products in  the store enter  
+""11:05:42 [main] INFO  stockmanage.Mainclass - ENTER [4]: if you want to see the products that you have ordered 
+""11:05:42 [main] INFO  stockmanage.Mainclass - ENTER [5]: if you want to see the profile   
+""11:05:42 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""11:05:42 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:05:45 [main] INFO  stockmanage.Mainclass -  product_id   	product_name 		product_price 	product_avalible 
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1001	 		gear			5400
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1003	 		differential			18000
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1004	 		steering			3200
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1005	 		enginecase			7400
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1006	 		leafsprings			9000
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1007	 		tyres			8200
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1008	 		piston			6420
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1023	 		axle			2343
+""11:05:45 [main] INFO  stockmanage.Mainclass - 1056	 		crankcase			6500
+""11:05:45 [main] INFO  stockmanage.Mainclass - 8787	 		bolts			300
+""11:05:45 [main] INFO  stockmanage.Mainclass - 9889	 		piston rings			2300
+""11:05:45 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:06:11 [main] INFO  stockmanage.Mainclass - ENTER [1]: if you want to change the password    
+""11:06:11 [main] INFO  stockmanage.Mainclass - ENTER [2]: if you want to see the products and their details in the store   
+""11:06:11 [main] INFO  stockmanage.Mainclass - ENTER [3]: if you want to buy products in  the store enter  
+""11:06:11 [main] INFO  stockmanage.Mainclass - ENTER [4]: if you want to see the products that you have ordered 
+""11:06:11 [main] INFO  stockmanage.Mainclass - ENTER [5]: if you want to see the profile   
+""11:06:11 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""11:06:11 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:06:21 [main] INFO  stockmanage.Mainclass - customer_username 	customer_phno 	product_name 	ordered_date 	prodect_count 
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	0				2022-09-26		10
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	0				2022-09-26		10
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	0		gear		2022-09-26		10
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	7895629645		gear		2022-09-26		10
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	7895629645				2022-09-26		2
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	7895629645		steering		2022-10-18		5
+""11:06:21 [main] INFO  stockmanage.Mainclass - parvi	7895629645		bolts		2022-10-18		8
+""11:06:21 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:07:13 [main] INFO  stockmanage.Mainclass - ENTER [1]: if you want to change the password    
+""11:07:13 [main] INFO  stockmanage.Mainclass - ENTER [2]: if you want to see the products and their details in the store   
+""11:07:13 [main] INFO  stockmanage.Mainclass - ENTER [3]: if you want to buy products in  the store enter  
+""11:07:13 [main] INFO  stockmanage.Mainclass - ENTER [4]: if you want to see the products that you have ordered 
+""11:07:13 [main] INFO  stockmanage.Mainclass - ENTER [5]: if you want to see the profile   
+""11:07:13 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""11:07:13 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""11:07:18 [main] INFO  stockmanage.Mainclass - customer_id 	 customer_username 	customer_password 	customer_name 	customer_phno
+""11:07:18 [main] INFO  stockmanage.Mainclass - 4			parvi		  PARVI@abc123 		parvathi	 7895629645
+""11:07:18 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""11:07:32 [main] INFO  stockmanage.Mainclass - you have been logged out !!!!
+"

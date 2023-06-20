@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<Configuration status="WARN">
+<Properties>
+<property name="filename">./logRuns</property>
+</Properties>
+<Appenders>
+<Console name="Console" target="SYSTEM_OUT">
+<PatternLayout pattern="%d{HH:mm:ss}  %msg%n"/>
+</Console>
+<RollingFile name="file"
+            fileName="${filename}/records.log"
+            filePattern="${filename}/records-%d{HH-mm-ss-SSS}.log">
+<PatternLayout>
+<pattern>"%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"</pattern>
+</PatternLayout>
+<SizeBasedTriggeringPolicy size="10 KB" />
+</RollingFile>
+</Appenders>
+<Loggers>
+<Logger name="stockmanage" level="trace" additivity="false">
+<AppenderRef ref="Console"/>
+<AppenderRef ref="file"/>
+</Logger>
+
+<Root level="info">
+<AppenderRef ref="Console"/>
+
+</Root>
+</Loggers>
+</Configuration>

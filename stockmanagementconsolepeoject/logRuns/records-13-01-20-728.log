@@ -1,0 +1,108 @@
+"18:05:22 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""18:05:22 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""18:05:22 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""18:05:22 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""18:05:24 [main] INFO  stockmanage.Mainclass - enter id of product : 
+""18:05:31 [main] INFO  stockmanage.Mainclass - enter product seller name : 
+""18:05:42 [main] INFO  stockmanage.Mainclass - enter number of products : 
+""18:17:49 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""18:17:49 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""18:17:49 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customw 
+""18:18:01 [main] INFO  stockmanage.Mainclass -  enter the admins username : 
+""18:18:06 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""18:18:06 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""18:18:06 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customw 
+""18:18:08 [main] INFO  stockmanage.Mainclass -  enter the  coustomers username : 
+""18:18:13 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""18:18:13 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""18:18:13 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customw 
+""18:18:15 [main] INFO  stockmanage.Mainclass - enter name of customer : 
+""18:19:00 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""18:19:00 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""18:19:00 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customer 
+""18:19:00 [main] INFO  stockmanage.Mainclass -  enter your response here 
+""18:19:09 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""18:19:09 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""18:19:09 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customer 
+""18:19:09 [main] INFO  stockmanage.Mainclass -  enter your response here :  
+""18:19:12 [main] INFO  stockmanage.Mainclass -  enter the admins username : 
+""18:19:15 [main] INFO  stockmanage.Mainclass -  enter the   admins password : 
+""18:19:17 [main] INFO  stockmanage.Mainclass - --------------------------------------------------
+""18:19:17 [main] INFO  stockmanage.Mainclass - --------------------------------------------------
+""18:19:17 [main] INFO  stockmanage.Mainclass - |                  welcome admin                  |
+""18:19:17 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""18:19:17 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""18:19:17 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""18:19:17 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""18:19:17 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""18:19:22 [main] INFO  stockmanage.Mainclass - ad_username 		 ad_password 		 ad_name 		 ad_phno
+""18:19:22 [main] INFO  stockmanage.Mainclass - admin		admin123		EJJIPURAPU SAIKUMAR		9701613986
+""18:19:22 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""18:19:22 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""18:19:25 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""18:19:25 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""18:19:25 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""18:19:25 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""18:19:27 [main] INFO  stockmanage.Mainclass - product_id 	 product_name 	 product_price 	 product_avalible 	 producta_created_date
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1001		gear			5400	 	62	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1003		differential			18000	 	111	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1004		steering			3200	 	90	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1005		enginecase			7400	 	24	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1006		leafsprings			9000	 	74	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1007		tyres			8200	 	57	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1008		piston			6420	 	74	 	2022-08-18
+""18:19:27 [main] INFO  stockmanage.Mainclass - 1056		crankcase			6500	 	96	 	2022-09-23
+""18:19:27 [main] INFO  stockmanage.Mainclass - ----------------------------------------------------------------------------------------------------------
+""18:19:27 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""12:57:31 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""12:57:31 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""12:57:31 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customer 
+""12:57:31 [main] INFO  stockmanage.Mainclass -  enter your response here :  
+""12:57:51 [main] INFO  stockmanage.Mainclass -  ENTER '1' : if you are admin
+""12:57:51 [main] INFO  stockmanage.Mainclass - ENTER '2' : if you are customer
+""12:57:51 [main] INFO  stockmanage.Mainclass -  ENTER '3' : if you are new customer 
+""12:57:51 [main] INFO  stockmanage.Mainclass -  enter your response here :  
+""12:58:00 [main] INFO  stockmanage.Mainclass -  enter the admins username : 
+""12:58:03 [main] INFO  stockmanage.Mainclass -  enter the   admins password : 
+""12:58:06 [main] INFO  stockmanage.Mainclass - --------------------------------------------------
+""12:58:06 [main] INFO  stockmanage.Mainclass - --------------------------------------------------
+""12:58:06 [main] INFO  stockmanage.Mainclass - |                  welcome admin                  |
+""12:58:06 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""12:58:06 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [1]: if you want to change the admin password   
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [2]:if you want to see the productd in the store  
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [3]:if you want to add  more productss into the  
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [4]:if you want to delete products from the store   
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [5]:if you want to order the products for the store   
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [6]:if you want to see customer order details  
+""12:58:06 [main] INFO  stockmanage.Mainclass -  ENTER [7]:if you want to see your profile details   
+""12:58:06 [main] INFO  stockmanage.Mainclass - -----------------------------------------------------------------------------
+""12:58:06 [main] INFO  stockmanage.Mainclass -   enter the numer for you case : 
+""12:58:12 [main] INFO  stockmanage.Mainclass - product_id 	 product_name 	 product_price 	 product_avalible 	 producta_created_date
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1001		gear			5400	 	62	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1003		differential			18000	 	111	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1004		steering			3200	 	90	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1005		enginecase			7400	 	24	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1006		leafsprings			9000	 	74	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1007		tyres			8200	 	57	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1008		piston			6420	 	74	 	2022-08-18
+""12:58:12 [main] INFO  stockmanage.Mainclass - 1056		crankcase			6500	 	96	 	2022-09-23
+"

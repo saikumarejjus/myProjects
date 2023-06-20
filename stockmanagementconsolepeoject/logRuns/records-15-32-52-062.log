@@ -1,0 +1,102 @@
+"21:56:43 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""21:57:15 [main] INFO  stockmanage.Mainclass -  product_id 	product_name 		product_price 	product_avalible 	 producta_created_date
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1001			gear			5400	 	46	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1003			differential			18000	 	111	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1004			steering			3200	 	90	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1005			enginecase			7400	 	24	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1006			leafsprings			9000	 	74	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1007			tyres			8200	 	57	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1008			piston			6420	 	74	 	2022-08-18
+""21:57:15 [main] INFO  stockmanage.Mainclass - 1056			crankcase			6500	 	96	 	2022-09-23
+""21:57:15 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""22:10:26 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""22:10:30 [main] INFO  stockmanage.Mainclass -  enter the  coustomers username : 
+""22:10:32 [main] INFO  stockmanage.Mainclass -  enter the  of customer password : 
+""22:10:36 [main] INFO  stockmanage.Mainclass - customer username and password is verified
+""22:10:36 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""22:10:36 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""22:10:36 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""22:10:36 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""22:10:36 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""22:10:36 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""22:10:36 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""22:10:42 [main] INFO  stockmanage.Mainclass -  product_id   	product_name 		product_price 	product_avalible 	 producta_created_date
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1001	 		gear			5400	 	46	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1003	 		differential			18000	 	111	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1004	 		steering			3200	 	90	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1005	 		enginecase			7400	 	24	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1006	 		leafsprings			9000	 	74	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1007	 		tyres			8200	 	57	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1008	 		piston			6420	 	74	 	2022-08-18
+""22:10:42 [main] INFO  stockmanage.Mainclass - 1056	 		crankcase			6500	 	96	 	2022-09-23
+""22:10:42 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""22:10:45 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""22:10:45 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""22:10:45 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""22:10:45 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""22:10:45 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""22:10:45 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""22:10:49 [main] INFO  stockmanage.Mainclass - customer_id 	 customer_username 	customer_password 	customer_name 	customer_phno
+""22:10:49 [main] INFO  stockmanage.Mainclass - 4			parvi		  parvi123 		parvathi	 7895629645
+""22:10:49 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""22:10:52 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""22:10:52 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""22:10:52 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""22:10:52 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""22:10:52 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""22:10:52 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""22:10:56 [main] INFO  stockmanage.Mainclass - enter product id : 
+""22:11:00 [main] INFO  stockmanage.Mainclass - enter number of products : 
+""22:11:07 [main] INFO  stockmanage.Mainclass - If you want to oreder more products then enter <1> , else enter <0> : 
+""22:11:13 [main] INFO  stockmanage.Mainclass - your order is placed succesfully !!!!! 
+""22:11:13 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""22:11:15 [main] INFO  stockmanage.Mainclass - if you want to change the password enter - [1] or  
+""22:11:15 [main] INFO  stockmanage.Mainclass - if you want to see the products and their details in the store enter - [2] or 
+""22:11:15 [main] INFO  stockmanage.Mainclass - if you want to buy products in  the store enter - [3] or 
+""22:11:15 [main] INFO  stockmanage.Mainclass - if you want to see the products that you have ordered enter - [4] or 
+""22:11:15 [main] INFO  stockmanage.Mainclass - if you want to see the profile enter - [5] 
+""22:11:15 [main] INFO  stockmanage.Mainclass - enter the number for your case : 
+""22:11:29 [main] INFO  stockmanage.Mainclass - customer_id 	customer_name 	customer_phno 	product_id	product_name 	ordered_date 	prodect_count 	product_price 	total_cost
+""22:11:29 [main] INFO  stockmanage.Mainclass - 4		parvathi	7895629645	1003		differential		2022-09-23		40		18000		 720000
+""22:11:29 [main] INFO  stockmanage.Mainclass - 4		parvathi	7895629645	1001		gear		2022-09-23		12		5400		 64800
+""22:11:29 [main] INFO  stockmanage.Mainclass - 4		parvathi	7895629645	1003		differential		2022-09-23		25		18000		 450000
+""22:11:29 [main] INFO  stockmanage.Mainclass - 4		parvathi	7895629645	1002				2022-09-25		12		0		 0
+""22:11:29 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""15:17:17 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:17:28 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:17:30 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""15:17:33 [main] INFO  stockmanage.Mainclass - enterd password  is not correct
+""15:17:33 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:20:00 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:20:03 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:20:13 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""15:20:18 [main] INFO  stockmanage.Mainclass - enterd password  is not correct
+""15:20:18 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:20:42 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:20:47 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:20:49 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""15:20:52 [main] INFO  stockmanage.Mainclass -   \  
+""15:20:52 [main] INFO  stockmanage.Mainclass - enterd password  is not correct
+""15:20:52 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:27:03 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:27:05 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:27:07 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""15:27:11 [main] INFO  stockmanage.Mainclass -   \  
+""15:27:11 [main] INFO  stockmanage.Mainclass - enterd password  is not correct
+""15:27:11 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:28:17 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:28:18 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:28:22 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""15:28:25 [main] INFO  stockmanage.Mainclass -   \  
+""15:28:25 [main] INFO  stockmanage.Mainclass - enterd password  is not correct
+""15:28:25 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:29:45 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:29:50 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:29:52 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:29:55 [main] INFO  stockmanage.Mainclass -  enter the   admins password : 
+""15:29:57 [main] INFO  stockmanage.Mainclass -   \  
+""15:29:57 [main] INFO  stockmanage.Mainclass - enterd password  is not correct
+""15:29:57 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""15:32:48 [main] INFO  stockmanage.Mainclass - if you are admin enter below as <a> or if you user enter below as <c> or if you are new enter below as <n> for registration: 
+""15:32:49 [main] INFO  stockmanage.Mainclass -  enter the admins username : 
+"

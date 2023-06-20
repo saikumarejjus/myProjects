@@ -1,0 +1,109 @@
+"10:06:12 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:09:18 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:09:22 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:09:22 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:09:22 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:09:22 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:09:24 [main] INFO  stockmanage.Mainclass - product_id 		 product_name 		 product_price 		product_avalible 		 producta_created_date
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1001
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1002
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1003
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1004
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1005
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1006
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1007
+""10:09:24 [main] INFO  stockmanage.Mainclass - 1008
+""10:09:24 [main] INFO  stockmanage.Mainclass - product_id 		 product_name 		 product_price 		 product_avalible 		 producta_created_date
+""10:09:24 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:12:53 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:12:56 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:12:58 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:12:58 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:12:58 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:12:58 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:13:09 [main] INFO  stockmanage.Mainclass - product_id 		 product_name 		 product_price 		product_avalible 		 producta_created_date
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1001		gear		5400		58		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1002		bush		2400		88		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1003		differential		18000		30		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1004		steering		3200		90		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1005		enginecase		7400		24		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1006		leafsprings		9000		74		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1007		tyres		8200		57		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - 1008		piston		6420		74		2022-08-18
+""10:13:09 [main] INFO  stockmanage.Mainclass - product_id 		 product_name 		 product_price 		 product_avalible 		 producta_created_date
+""10:13:09 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:14:14 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:14:16 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:14:20 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:14:20 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:14:20 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:14:20 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:14:22 [main] INFO  stockmanage.Mainclass - product_id 	 product_name 	 product_price 	 product_avalible 	 producta_created_date
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1001		gear		5400		58		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1002		bush		2400		88		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1003		differential		18000		30		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1004		steering		3200		90		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1005		enginecase		7400		24		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1006		leafsprings		9000		74		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1007		tyres		8200		57		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - 1008		piston		6420		74		2022-08-18
+""10:14:22 [main] INFO  stockmanage.Mainclass - product_id 		 product_name 		 product_price 		 product_avalible 		 producta_created_date
+""10:14:22 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:16:15 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:16:18 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:16:22 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:16:22 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:16:22 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:16:22 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:16:24 [main] INFO  stockmanage.Mainclass - product_id 	 product_name 	 product_price 	 product_avalible 	 producta_created_date
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1001		gear		5400		58		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1002		bush		2400		88		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1003		differential		18000		30		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1004		steering		3200		90		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1005		enginecase		7400		24		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1006		leafsprings		9000		74		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1007		tyres		8200		57		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass - 1008		piston		6420		74		2022-08-18
+""10:16:24 [main] INFO  stockmanage.Mainclass -  enter <h> to return home OR enter <lg> to logout : 
+""10:17:06 [main] INFO  stockmanage.Mainclass -  you have enter incorrect option  ....
+""10:17:06 [main] INFO  stockmanage.Mainclass - enter any one of above mentioned option ....
+""10:17:08 [main] INFO  stockmanage.Mainclass -  enter the name of admins username : 
+""10:17:12 [main] INFO  stockmanage.Mainclass -  enter the  of admins password : 
+""10:17:16 [main] INFO  stockmanage.Mainclass - admin username and password is verified
+""10:17:16 [main] INFO  stockmanage.Mainclass - you haba been succesfull logged in
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to change the admin password enter - [1] or  
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to see the productd in the store enter - [2] or 
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to add  more productss into the store enter - [3] or 
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to delete products from the store enter - [4] or 
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to order the products for the store enter - [5] or 
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to see customer order details enter - [6]: or 
+""10:17:16 [main] INFO  stockmanage.Mainclass - if you want to see your profile details enter - [7]:  
+""10:17:16 [main] INFO  stockmanage.Mainclass - enter the numer for you case : 
+""10:17:18 [main] INFO  stockmanage.Mainclass - product_id 	 product_name 	 product_price 	 product_avalible 	 producta_created_date
+""10:17:18 [main] INFO  stockmanage.Mainclass - 1001		gear			5400	 	58	 	2022-08-18
+""10:17:18 [main] INFO  stockmanage.Mainclass - 1002		bush			2400	 	88	 	2022-08-18
+"
